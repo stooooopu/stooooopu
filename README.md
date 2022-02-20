@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&fontColor=&fontSize=100&height=250&fontAlign=80&fontAlignY=30&animation=twinkling&text=Stop%20U&desc)
 
-![footer](https://capsule-render.vercel.app/api?type=Slice&color=auto&section=footer&fontColor=&fontSize=40&fontAlign=16&fontAlignY=80&text==%20JiYoo%20Jeong)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstooooopu&count_bg=%23BFA1FF&title_bg=%23FFE38E&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Generic badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://shields.io/) [![Generic badge](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://shields.io/)
 [![Generic badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://shields.io/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stooooopu&theme=blue-green)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stooooopu&show_icons=true&theme=radical)
+
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=auto&section=footer&fontColor=&fontSize=40&fontAlign=16&fontAlignY=80&text==%20JiYoo%20Jeong)
